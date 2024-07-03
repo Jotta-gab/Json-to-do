@@ -1,9 +1,50 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+    {
+        "name": "Fechamento folha de pagamento",
+        "date": "2024-07-29",
+        "content": "Realizar o levantamento da carga horária de cada funcionário, adicionar valores à planilha de pagamentos, realizar pagamentos de cada funcionário, dar baixa no sistema bancário após realizar os pagamentos, registrar os pagamentos na planilha do mês 07.",
+        "completed": false
+    },
+    {
+        "name": "Desenvolvimento de novos recursos",
+        "date": "2024-08-15",
+        "content": "Implementar novos recursos solicitados pelos clientes, testar funcionalidades em ambiente de desenvolvimento, revisar código para garantir qualidade, preparar documentação de usuário para os novos recursos.",
+        "completed": false
+    },
+    {
+        "name": "Planejamento de eventos corporativos",
+        "date": "2024-09-10",
+        "content": "Definir agenda do evento, reservar local, contratar serviços de catering e decoração, enviar convites aos participantes, preparar materiais promocionais.",
+        "completed": true
+    },
+    {
+        "name": "Treinamento de equipe de vendas",
+        "date": "2024-08-05",
+        "content": "Desenvolver conteúdo de treinamento, agendar sessões de treinamento, conduzir workshops práticos, avaliar desempenho dos participantes, fornecer feedback individual.",
+        "completed": false
+    },
+    {
+        "name": "Manutenção preventiva de equipamentos",
+        "date": "2024-08-20",
+        "content": "Realizar inspeção de rotina em equipamentos, substituir peças desgastadas, verificar lubrificação e funcionamento adequado, documentar resultados da manutenção.",
+        "completed": false
+    },
+    {
+        "name": "Atualização de conteúdo do site",
+        "date": "2024-07-31",
+        "content": "Revisar conteúdo existente, atualizar informações de produtos e serviços, otimizar SEO para melhorar classificação nos motores de busca.",
+        "completed": true
+    },
+    {
+        "name": "Lançamento de campanha de marketing",
+        "date": "2024-09-01",
+        "content": "Criar material promocional, definir estratégia de divulgação, programar posts em redes sociais, monitorar resultados da campanha.",
+        "completed": false
+    },
+    {
+        "name": "Auditoria interna de processos",
+        "date": "2024-08-25",
+        "content": "Rever procedimentos operacionais, realizar entrevistas com equipe, analisar documentação financeira, preparar relatório de auditoria.",
+        "completed": false
+    }
+]
